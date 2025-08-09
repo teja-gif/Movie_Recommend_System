@@ -30,7 +30,7 @@ It suggests the top 5 most similar movies based on the one you select using **pr
 -├── 📄 requirements.txt # Dependencies
 -└── 📄 README.md # Project documentation
 
-
+---
 
 ## Install dependencies
 pip install -r requirements.txt
