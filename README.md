@@ -5,6 +5,18 @@ It suggests the top 5 most similar movies based on the one you select using **pr
 
 ---
 
+## Output Screenshots
+
+### Project Screenshots
+
+![Screenshot 2025-08-09 160926](https://github.com/user-attachments/assets/c0ce22ee-75c1-4edb-9f26-243a5ce22860)
+*Movie Searching*
+
+![Screenshot 2025-08-09 160959](https://github.com/user-attachments/assets/d907c78c-7894-4753-92f5-0596dd08b14a)
+*Top 5 Recommended Movies based on similarity*
+
+---
+
 ## ✨ Features
 - 🎯 **Content-based filtering** – recommends movies similar to your selection  
 - 🖥 **Interactive UI** with Streamlit  
@@ -33,17 +45,17 @@ It suggests the top 5 most similar movies based on the one you select using **pr
 ---
 
 ## 🚀 How to Run
-1. **Clone the repository**
+1. **Clone the repository**  
    ```bash
    git clone https://github.com/your-username/Movie-Recommender-System.git
    cd Movie-Recommender-System
-
 2. **Install dependencies**
-  ```bash
-  pip install -r requirements.txt
-
+   ```bash
+   pip install -r requirements.txt
 3. **Run the application**
-  ```bash
-  streamlit run app.py
+   ```bash
+   streamlit run app.py
+
+
 
 
