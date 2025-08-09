@@ -32,5 +32,18 @@ It suggests the top 5 most similar movies based on the one you select using **pr
 
 ---
 
-## Install dependencies
-pip install -r requirements.txt
+## 🚀 How to Run
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/Movie-Recommender-System.git
+   cd Movie-Recommender-System
+
+2. **Install dependencies**
+  ```bash
+  pip install -r requirements.txt
+
+3. **Run the application**
+  ```bash
+  streamlit run app.py
+
+
