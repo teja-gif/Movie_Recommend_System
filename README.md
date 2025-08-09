@@ -22,12 +22,14 @@ It suggests the top 5 most similar movies based on the one you select using **pr
 ---
 
 ## 📂 Project Structure
-├── app.py # Main Streamlit app
-├── Movie_Recommender_System.ipynb # Notebook used for building similarity data
-├── movie_dict.pkl # Movie dataset in dictionary format
-├── similarity.pkl # Precomputed similarity matrix
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+📦 Movie-Recommender-System
+-├── 📄 app.py # Main Streamlit app
+-├── 📓 Movie_Recommender_System.ipynb # Notebook used for building similarity data
+-├── 📦 movie_dict.pkl # Movie dataset in dictionary format
+-├── 📦 similarity.pkl # Precomputed similarity matrix
+-├── 📄 requirements.txt # Dependencies
+-└── 📄 README.md # Project documentation
+
 
 
 ## Install dependencies
